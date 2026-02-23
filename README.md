@@ -1,5 +1,4 @@
-# vickspares254
-the best spare parts shop
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -34,7 +33,7 @@ the best spare parts shop
         <p>Model: PC200-7</p>
         <p class="genuine">Genuine - KES 4,500</p>
         <p class="stock">In Stock</p>
-        <a href="https://wa.me/2547XXXXXXXX?text=I%20want%20Genuine%20Komatsu%20Oil%20Filter%20PC200-7">
+        <a href="https://watsapp me 0723451982">
             <button>Order</button>
         </a>
     </div>
@@ -44,7 +43,7 @@ the best spare parts shop
         <p>Model: PC200-7</p>
         <p class="aftermarket">Aftermarket - KES 2,800</p>
         <p class="stock">In Stock</p>
-        <a href="https://wa.me/2547XXXXXXXX?text=I%20want%20Aftermarket%20Komatsu%20Oil%20Filter%20PC200-7">
+        <a href="https://wa.me/254723451982text=I%20want%20Aftermarket%20Komatsu%20Oil%20Filter%20PC200-7">
             <button>Order</button>
         </a>
     </div>
@@ -54,7 +53,7 @@ the best spare parts shop
         <p>Model: PC300</p>
         <p class="genuine">Genuine - KES 6,800</p>
         <p class="stock">Limited Stock</p>
-        <a href="https://wa.me/2547XXXXXXXX?text=I%20want%20Komatsu%20Air%20Cleaner%20PC300">
+        <a href="https://wa.me/25472341982text=I%20want%20Komatsu%20Air%20Cleaner%20PC300">
             <button>Order</button>
         </a>
     </div>
@@ -64,7 +63,7 @@ the best spare parts shop
         <p>Model: PC200-7</p>
         <p class="aftermarket">Aftermarket - KES 12,000</p>
         <p class="stock">In Stock</p>
-        <a href="https://wa.me/2547XXXXXXXX?text=I%20want%20Komatsu%20Piston%20Rings%20PC200-7">
+        <a href="https://wa.me/254723451982text=I%20want%20Komatsu%20Piston%20Rings%20PC200-7">
             <button>Order</button>
         </a>
     </div>
