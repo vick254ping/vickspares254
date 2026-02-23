@@ -195,3 +195,112 @@ document.getElementById("searchInput").addEventListener("keyup", function() {
 
 </body>
 </html>
+<section class="products">
+
+  <div class="product">
+    <img src="images/komatsu-oil-filter.jpg" alt="Komatsu Oil Filter">
+    <h3>Komatsu Oil Filter</h3>
+    <p>Model: PC200-7</p>
+    <span class="label genuine">Genuine</span>
+    <p class="price">KES 4,500</p>
+    <p class="stock">In Stock</p>
+    <a href="https://wa.me/254712345678?text=I%20want%20Genuine%20Komatsu%20Oil%20Filter%20PC200-7">
+      <button>Order via WhatsApp</button>
+    </a>
+  </div>
+
+  <div class="product">
+    <img src="images/komatsu-oil-filter.jpg" alt="Komatsu Oil Filter">
+    <h3>Komatsu Oil Filter</h3>
+    <p>Model: PC200-7</p>
+    <span class="label aftermarket">Aftermarket</span>
+    <p class="price">KES 2,800</p>
+    <p class="stock">In Stock</p>
+    <a href="https://wa.me/254712345678?text=I%20want%20Aftermarket%20Komatsu%20Oil%20Filter%20PC200-7">
+      <button>Order via WhatsApp</button>
+    </a>
+  </div>
+
+  <div class="product">
+    <img src="images/komatsu-air-cleaner.jpg" alt="Komatsu Air Cleaner">
+    <h3>Komatsu Air Cleaner</h3>
+    <p>Model: PC300</p>
+    <span class="label genuine">Genuine</span>
+    <p class="price">KES 6,800</p>
+    <p class="stock">Limited Stock</p>
+    <a href="https://wa.me/254712345678?text=I%20want%20Komatsu%20Air%20Cleaner%20PC300">
+      <button>Order via WhatsApp</button>
+    </a>
+  </div>
+
+  <div class="product">
+    <img src="images/komatsu-piston-rings.jpg" alt="Komatsu Piston Rings">
+    <h3>Komatsu Piston Rings</h3>
+    <p>Model: PC200-7</p>
+    <span class="label aftermarket">Aftermarket</span>
+    <p class="price">KES 12,000</p>
+    <p class="stock">In Stock</p>
+    <a href="https://wa.me/254712345678?text=I%20want%20Komatsu%20Piston%20Rings%20PC200-7">
+      <button>Order via WhatsApp</button>
+    </a>
+  </div>
+
+</section>
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.product {
+  background: white;
+  margin: 15px;
+  padding: 20px;
+  width: 250px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.product img {
+  width: 200px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.label {
+  display: inline-block;
+  padding: 3px 8px;
+  border-radius: 5px;
+  color: white;
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+
+.genuine { background-color: blue; }
+.aftermarket { background-color: orange; }
+
+.price {
+  font-weight: bold;
+  margin: 5px 0;
+}
+
+.stock {
+  color: green;
+  font-weight: bold;
+  margin: 5px 0 10px 0;
+}
+
+.product button {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 10px;
+  width: 100%;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.product button:hover {
+  background-color: darkgreen;
+}
